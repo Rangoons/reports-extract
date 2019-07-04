@@ -3,9 +3,21 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@blueprintjs/core": "3.17.1",
+    "@blueprintjs/datetime": "3.11.0",
+    "moment": "2.24.0",
     "react": "^16.8.6",
+    "react-csv": "1.1.1",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-redux": "7.1.0",
+    "react-scripts": "3.0.1",
+    "react-select": "3.0.4",
+    "recompose": "0.30.0",
+    "redux": "4.0.1",
+    "redux-logger": "3.0.6",
+    "redux-promise-middleware": "6.1.1",
+    "redux-thunk": "2.3.0",
+    "styled-components": "4.3.2"
   },
   "scripts": {
     "start": "react-scripts start",
